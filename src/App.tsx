@@ -1,8 +1,17 @@
 import React from 'react'
+import Navbar from './compnents/Navbar'
+import Hero from './compnents/Hero'
+import Category from './compnents/Category'
+
+
 
 const App = () => {
   return (
-    <div>App</div>
+    <main>
+      <Navbar/>
+      <Hero/>
+      <Category/>
+    </main>
   )
 }
 

@@ -47,3 +47,60 @@ export const CategoryData = [
         img: "../../public/images/category__1.webp "
     },
 ]
+
+
+export const ProductData =[
+    
+        {
+            id:0,
+            name:"Dried Mango",
+            price:"$500",
+            img: "../../public/images/product__1.webp "
+        },
+        {
+            id:1,
+            name:"Crunchy Crisps",
+            price:"$300",
+            img: "../../public/images/product__2.webp "
+        },
+        {
+            id:2,
+            name:"Jewel Cranberries",
+            price:"$200",
+            img: "../../public/images/product__3.webp "
+        },
+        {
+            id:3,
+            name:"Almond organic",
+            price:"$100",
+            img: "../../public/images/product__4.webp "
+        },
+    
+]
+export const ProductBakeryData =[
+    
+    {
+        id:0,
+        name:"Dried Mango",
+        price:"$500",
+        img: "../../public/images/product__5.webp "
+    },
+    {
+        id:1,
+        name:"Crunchy Crisps",
+        price:"$300",
+        img: "../../public/images/product__2.webp "
+    },
+    {
+        id:2,
+        name:"Jewel Cranberries",
+        price:"$200",
+        img: "../../public/images/product__3.webp "
+    },
+    {
+        id:3,
+        name:"Almond organic",
+        price:"$100",
+        img: "../../public/images/product__4.webp "
+    },
+]
